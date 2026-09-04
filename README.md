@@ -3,9 +3,9 @@ Questo repository raccoglie una selezione mirata degli esercizi più significati
 
 ---
 
-## 📂 Progetti Selezionati
+## Progetti Selezionati
 
-### 📊 1. Analisi Esplorativa Visiva e Distribuzione Dati (Data Visualization)
+### 1. Analisi Esplorativa Visiva e Distribuzione Dati (Data Visualization)
 *   **File:** `01_distribuzione_dati_clinici.ipynb`
 *   **Obiettivo:** Esplorare un dataset clinico contenente le misurazioni geometriche estratte da immagini microscopiche di tumori al seno, analizzando le differenze strutturali tra masse benigne e maligne.
 *   **Competenze applicate:**
@@ -13,7 +13,7 @@ Questo repository raccoglie una selezione mirata degli esercizi più significati
     *   Identificazione visiva di soglie critiche utilizzabili dagli algoritmi di classificazione medica per formulare una diagnosi accurata.
     *   Uso pratico delle librerie `Seaborn` e `Matplotlib` per creare figure comparative pulite ed efficaci.
 
-### 🐼 2. Manipolazione, raggruppamento e ordinamento dei dati (Pandas)
+### 2. Manipolazione, raggruppamento e ordinamento dei dati (Pandas)
 *   **File:** `02_raggruppamento_e_ordinamento_pandas.ipynb`
 *   **Obiettivo:** Esplorare un dataset reale di recensioni di vini applicando logiche di raggruppamento e ordinamento gerarchico.
 *   **Competenze applicate:**
@@ -21,7 +21,7 @@ Questo repository raccoglie una selezione mirata degli esercizi più significati
     *   Utilizzo delle funzioni `agg()` e `value_counts()` per costruire un buon riepilogo e mappature statistiche.
     *   Gestione e navigazione di strutture dati a indici gerarchici multipli (*Multi-index*) per favorire l'interpretabilità delle informazioni.
 
-### 🚀 3. Ottimizzazione Predittiva con XGBoost (Intermediate Machine Learning)
+### 3. Ottimizzazione Predittiva con XGBoost (Intermediate Machine Learning)
 *   **File:** `03_ottimizzazione_modello_con_xgboost.ipynb`
 *   **Obiettivo:** Costruire e ottimizzare un modello di regressione avanzato per la stima dei prezzi immobiliari (dataset Ames), massimizzando l'accuratezza e riducendo l'errore medio assoluto (MAE).
 *   **Competenze applicate:**
